@@ -14,23 +14,22 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Testing](#Testing)
   * [Security](#Security)
   * [Selenium](#Selenium)
-  * [Frameworks JavaScript, Node.js](#Testing Frameworks JavaScript / Node.js)
+  * [Frameworks JavaScript, Node.js](#Frameworks JavaScript, Node.js)
   * [Responsive Web Design](#Responsive Web Design)
   * [CSS-Lint](#CSS-Lint)
 * [SDLC](#SDLC)
   * [SCM](#SCM)
   * [Build](#Build)
-* [Programming, Scripting](#Programming/Scripting)
-  * [SQL & PL/SQL](#SQL & PL/SQL)
-  * [Unix / Shell / Command Line](#Unix / Shell / Command Line)
+* [Programming, Scripting](#Programming, Scripting)
+  * [SQL, PL/SQL](#SQL, PL/SQL)
+  * [Unix, Shell, Command Line](#Unix, Shell, Command Line)
   * [Python](#Python)
 * [Tools](#Tools)
   * [Vim](#Vim)
-  * [Cups](#Cups)
-  * [SQL Developer](#SQL Developer)
+  * [Other](#Other)
 * [Fun Stuff](#Fun Stuff)
-* [Blog posts/articles](#Blog posts/articles)
-
+* [Articles](#Articles)
+* [Credits](#Credits)
 
 ###Metalists
 * [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
@@ -55,10 +54,10 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Cartoon Tester](http://cartoontester.blogspot.de/)
 * [Corey Goldberg (Programmer, Python)](http://coreygoldberg.blogspot.de)
 * [Joel on Software](http://www.joelonsoftware.com/)
-* [TJ Holowaychuk (programmer (node.js, Go) & artist )](<a href="http://tjholowaychuk.com/)
+* [TJ Holowaychuk (programmer (node.js, Go) & artist )](http://tjholowaychuk.com/)
 
 ###Books
-[Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+* [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 
 ###Videos
 * [Tech Talk: Elisabeth Hendrickson: Agile Testing](http://www.youtube.com/watch?v=bqrOnIECCSg)
@@ -81,7 +80,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Selenium Python Bindings Documentation](http://selenium.googlecode.com/svn/trunk/docs/api/py/index.html)
 * [SST](http://testutils.org/sst/index.html) | [SST Actions Reference](http://testutils.org/sst/actions.html) | [SST Web Automation Framework](https://launchpad.net/selenium-simple-test">SST Web Automation Framework)
 
-####Testing Frameworks JavaScript / Node.js
+####Frameworks JavaScript, Node.js
 * [Node.js: Assert](http://nodejs.org/docs/v0.3.1/api/assert.html)
 * [Node.js Testing Frameworks](https://github.com/joyent/node/wiki/modules#wiki-testing) 
 * [Zombie.js](https://github.com/assaf/zombie)
@@ -107,11 +106,11 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Ant Best Practices](http://onjava.com/onjava/2003/12/17/ant_bestpractices.html)
 * [Introduction to Ant](http://www.exubero.com/ant/antintro-s5.html)
 
-###Programming/Scripting
-####SQL & PL/SQL
+###Programming, Scripting
+####SQL, PL/SQL
 * [Oracle SQL - update if exists else insert, HowTo](http://stackoverflow.com/questions/4015199/oracle-sql-update-if-exists-else-insert)
 
-####Unix / Shell / Command Line
+####Unix, Shell, Command Line
 * [Unix Tutorial - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
 * [Unix Command Summary - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/?utm_source=nitrous.io&amp;utm_medium=blog&amp;utm_content=onemnthfivemistakes)
@@ -138,9 +137,9 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Wheningit](http://wheningit.tumblr.com/)
 * [Devops Reactions](http://devopsreactions.tumblr.com/)
 
-### Blog posts/articles
+###Articles
 
 
-## Credits
+##Credits
 
 Inspired by [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) which was in turn inspired by [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning).
