@@ -34,7 +34,8 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 ###Metalists
 * [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
-* [Cheat-Sheets](www.cheat-sheets.org/)
+* [Cheat-Sheets](http://www.cheat-sheets.org/)
+* [More Cheat-Sheets](http://overapi.com/)
 * [Programming, Motherfucker](http://programming-motherfucker.com/)
 * [Stackexchange: Software Quality Assurance and Testing](http://sqa.stackexchange.com/)
 * [Stackexchange - all Sites](http://stackexchange.com/sites#)
