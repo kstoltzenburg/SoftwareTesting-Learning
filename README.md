@@ -7,14 +7,14 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 ### Table of Contents
 * [Metalists](#metalists)
 * [Keeping up to date](#keeping-up-to-date)
-  * [Communities, News, Magazines](#communities,-News,-Magazines)
+  * [Communities, News, Magazines](#communities,-news,-magazines)
   * [Blogs](#blogs)
 * [Books](#books)  
 * [Videos](#videos)  
 * [Testing](#testing)
   * [Security](#security)
   * [Selenium](#selenium)
-  * [Frameworks JavaScript, Node.js](#frameworks JavaScript, Node.js)
+  * [Frameworks JavaScript, Node.js](#frameworks javaScript, jode.js)
   * [Responsive Web Design](#responsive-web-design)
   * [CSS-Lint](#css-lint)
 * [SDLC](#sdlc)
@@ -27,6 +27,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Tools](#tools)
   * [Vim](#vim)
   * [Other](#other)
+* [Historical](#historical)
 * [Fun Stuff](#fun-stuff)
 * [Articles](#articles)
 * [Credits](#credits)
@@ -133,6 +134,10 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 ####Other
 * [CUPS](http://www.cups.org/doc-1.1/sum.html#USING_SYSTEM)
 * [SQL Developer unter Ubuntu installieren](https://forums.oracle.com/forums/thread.jspa?threadID=2302774)
+
+###Historical
+* [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
+
 
 ###Fun stuff
 * [Wheningit](http://wheningit.tumblr.com/)
