@@ -145,7 +145,8 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Devops Reactions](http://devopsreactions.tumblr.com/)
 
 ###Articles
-
+##Testreports
+[Claire Moss: Building Better Bug Reports](http://www.stickyminds.com/article/building-better-bug-reports?page=0%2C0) (thoughts on the issue)
 
 ##Credits
 
