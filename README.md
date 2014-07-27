@@ -116,6 +116,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Unix Tutorial - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
 * [Unix Command Summary - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/?utm_source=nitrous.io&amp;utm_medium=blog&amp;utm_content=onemnthfivemistakes)
+* [Wring Shell Scripts - Tutorial](http://www.linuxcommand.org/writing_shell_scripts.php)
 * [Creating spars files on Linux](http://www.ruslansivak.com/index.cfm/2008/6/5/Creating-sparse-files-on-Linux)
 
 ####Python
