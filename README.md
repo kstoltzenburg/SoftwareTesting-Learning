@@ -26,6 +26,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
   * [Python](#python)
 * [Tools](#tools)
   * [Vim](#vim)
+  * [Database related](#database-related)
   * [Other](#other)
 * [Historical](#historical)
 * [Fun Stuff](#fun-stuff)
@@ -110,6 +111,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 
 ###Programming, Scripting
 ####SQL, PL/SQL
+* [Understanding Explain Plan Oracle](http://www.orafaq.com/node/1420)
 * [Oracle SQL - update if exists else insert, HowTo](http://stackoverflow.com/questions/4015199/oracle-sql-update-if-exists-else-insert)
 
 ####Unix, Shell, Command Line
@@ -132,9 +134,14 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Manage Vim Add-on Packages (Pathogen)](http://www.vim.org/scripts/script.php?script_id=2332) &gt; [Example: Pathogen&gt;Syntastic&gt;JSLint||jshint](http://stackoverflow.com/a/5893447) &gt; [install jshint](http://brain.3leglama.de/doku.php?id=vimrc:install_jshint) | [Adding Syntax Checking to vim - howto](http://stackoverflow.com/questions/473478/vim-jslint/5893447#5893447)
 * [Syntastic](http://www.vim.org/scripts/script.php?script_id=2736)
 
+####Database related
+* [Oracle Statspack](http://www.orafaq.com/wiki/Statspack)
+* [Statspack overview](http://www.akadia.com/services/ora_statspack_survival_guide.html)
+* [Statspack output explained](http://www.dbspecialists.com/blog/database-tuning/not-licensed-for-awr-use-statspack-instead/comment-page-1/)
+* [SQL Developer unter Ubuntu installieren](https://forums.oracle.com/forums/thread.jspa?threadID=2302774)
+
 ####Other
 * [CUPS](http://www.cups.org/doc-1.1/sum.html#USING_SYSTEM)
-* [SQL Developer unter Ubuntu installieren](https://forums.oracle.com/forums/thread.jspa?threadID=2302774)
 
 ###Historical
 * [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
