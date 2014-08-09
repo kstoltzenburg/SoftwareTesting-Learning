@@ -12,12 +12,15 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Books](#books)  
 * [Videos](#videos)  
 * [Basics](#basics)
+  * [Psychologicals](#psychologicals)
   * [Encoding](#encoding) 
+* [Test Planning](#test-planning)
 * [Testing Activities](#testing-activities)
   * [Exploratory Testing](#exploratory-testing)
 * [Testing Focus](#testing-focus)
   * [Security](#security)
   * [Responsive Web Design](#responsive-web-design)
+  * [Mobile App](#mobile-app)
 * [Test Reports](#test-reports)
 * [Testing Tools](#testing-tools)
   * [Selenium](#selenium)
@@ -69,6 +72,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Corey Goldberg (Programmer, Python)](http://coreygoldberg.blogspot.de)
 * [Joel on Software](http://www.joelonsoftware.com/)
 * [TJ Holowaychuk (programmer (node.js, Go) & artist )](http://tjholowaychuk.com/)
+* [Matt Heusser: The craft of software](http://craftingsw.blogspot.de/)
 
 ###Books
 * [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
@@ -80,12 +84,24 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Roy Osherove: Unit Testing Best Practices](https://www.youtube.com/watch?v=dJUVNFxrK_4)
 * [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8#t=18) (tech talk)
 * [James Whittaker: Large-scale Exploratory Testing: Let's Take a Tour](https://www.youtube.com/watch?v=fNkYz1hB7r0)
+* [James Whittaker: 10 Mintues Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo) (tech talk)
+* [David Rock: Your Brain at Work](https://www.youtube.com/watch?v=XeJSXfXep4M)
 
 ###Basics
+####Psychologicals
+* [David Rock: Your Brain at Work](https://www.youtube.com/watch?v=XeJSXfXep4M)
+* [Test your awareness: Do the test](https://www.youtube.com/watch?v=Ahg6qcgoay4)
+* [Test your awareness: Whodunnit?](https://www.youtube.com/watch?v=ubNF9QNEQLA)
+* [Matt Heusser: Outliers III](http://craftingsw.blogspot.de/2009/02/outliers-iii.html)[I](http://craftingsw.blogspot.de/2009/01/outliers-i.html)[II](http://craftingsw.blogspot.de/2009/01/outliers-ii.html)
+* [Susan Cain: The power of introverts](https://www.youtube.com/watch?v=c0KYU2j0TM4)
+
 ####Encoding
 * [Oli Studholme: UTF-8](https://the-pastry-box-project.net/oli-studholme/2013-october-8) (blog-post)
 * [David C. Zentgraf: What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/) (blog-post)
 * [Joel on Software: The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) (blog-post)
+
+###Test Planning
+* [James Whittaker: 10 Mintues Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo) (tech talk)
 
 ###Testing Activities
 ####Exploratory Testing
@@ -102,6 +118,9 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 ####Responsive Web Design
 * [Responsive Web Design testen (DE)](http://t3n.de/news/responsive-web-design-komfortabel-380139/)
 * [Checklist: Testing Responsive Webdesign (DE)](http://brain.3leglama.de/doku.php?id=responsive_webdesign)
+ 
+####Mobile App
+* [Rosie Sherry: A Field Guide To Mobile App Testing](http://www.smashingmagazine.com/2012/10/22/a-guide-to-mobile-app-testing/)
 
 ###Test Reports
 * [Claire Moss: Building Better Bug Reports](http://www.stickyminds.com/article/building-better-bug-reports?page=0%2C0) (article, thoughts on the issue)
@@ -201,6 +220,9 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 ###Fun stuff
 * [Wheningit](http://wheningit.tumblr.com/)
 * [Devops Reactions](http://devopsreactions.tumblr.com/)
+* [Geek & Poke](http://geek-and-poke.com/) ([break everything](http://geekandpoke.typepad.com/geekandpoke/2011/01/what-could-go-wrong.html))
+* [XKCD](https://xkcd.com/)([CNR](http://xkcd.com/583/))
+* [What if?](https://what-if.xkcd.com/)
 
 ##Credits
 
