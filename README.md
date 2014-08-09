@@ -15,6 +15,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
   * [Psychologicals](#psychologicals)
   * [Encoding](#encoding) 
 * [Test Planning](#test-planning)
+  * [Heuristics](#heuristics)  
 * [Testing Activities](#testing-activities)
   * [Exploratory Testing](#exploratory-testing)
 * [Testing Focus](#testing-focus)
@@ -100,8 +101,12 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [David C. Zentgraf: What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/) (blog-post)
 * [Joel on Software: The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) (blog-post)
 
-###Test Planning
+###Test Planning 
 * [James Whittaker: 10 Mintues Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo) (tech talk)
+
+####Heuristics
+* [Heuristics](http://en.wikipedia.org/wiki/Heuristic)
+* [Elisabeth Hendrickson: Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 
 ###Testing Activities
 ####Exploratory Testing
@@ -121,6 +126,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
  
 ####Mobile App
 * [Rosie Sherry: A Field Guide To Mobile App Testing](http://www.smashingmagazine.com/2012/10/22/a-guide-to-mobile-app-testing/)
+* [Jonathan Kohl: Test Mobile Applications with I sliced up fun!](http://www.kohl.ca/articles/ISLICEDUPFUN.pdf)
 
 ###Test Reports
 * [Claire Moss: Building Better Bug Reports](http://www.stickyminds.com/article/building-better-bug-reports?page=0%2C0) (article, thoughts on the issue)
