@@ -107,10 +107,14 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 ####Heuristics
 * [Heuristics](http://en.wikipedia.org/wiki/Heuristic)
 * [Elisabeth Hendrickson: Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+* [Michael Bolton / James Bach : FEW HICCUPS](http://www.developsense.com/blog/2012/07/few-hiccupps/)
+* [Micheal Bolton: Resources on Exploratory Testing, Metrics and Other Stuff](http://www.developsense.com/resources.html)
+* [Curious Tester: The Power of Mnemonics](http://curioustester.blogspot.de/2009/10/power-of-heuristics-and-mneumonics.html)
 
 ###Testing Activities
 ####Exploratory Testing
 * [James Whittaker: Large-scale Exploratory Testing: Let's Take a Tour](https://www.youtube.com/watch?v=fNkYz1hB7r0)
+* [Micheal Bolton: Resources on Exploratory Testing, Metrics and Other Stuff](http://www.developsense.com/resources.html)
 
 ###Testing Focus
 ####Security
