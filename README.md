@@ -11,26 +11,37 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
   * [Blogs](#blogs)
 * [Books](#books)  
 * [Videos](#videos)  
-* [Testing](#testing)
+* [Basics](#basics)
+  * [Encoding](#encoding) 
+* [Testing Activities](#testing-activities)
+  * [Exploratory Testing](#exploratory-testing)
+* [Testing Focus](#testing-focus)
   * [Security](#security)
-  * [Selenium](#selenium)
-  * [Frameworks JavaScript, Node.js](#frameworks-javaScript-jode.js)
   * [Responsive Web Design](#responsive-web-design)
-  * [CSS-Lint](#css-lint)
+* [Test Reports](#test-reports)
+* [Testing Tools](#testing-tools)
+  * [Selenium](#selenium)
+  * [Frameworks JavaScript, Node.js](#frameworks-javaScript-node.js)
 * [SDLC](#sdlc)
+  * [Test Reports](#test-reports)
   * [SCM](#scm)
   * [Build](#build)
 * [Programming, Scripting](#programming-scripting)
-  * [SQL, PL/SQL](#sql,-ps/sql)
   * [Unix, Shell, Command Line](#unix-shell-command-line)
   * [Python](#python)
+  * [HTML/CSS](#html-css)
+  * [Unit Testing](#unit-testing)
+* [Databases](#databases)
+  * [Oracle](#oracle)
+  * [SQL, PL/SQL](#sql-pl-sql)
+  * [MongoDB](#mongodb)
+* [DevOps](#devops)
 * [Tools](#tools)
   * [Vim](#vim)
   * [Database related](#database-related)
   * [Other](#other)
 * [Historical](#historical)
 * [Fun Stuff](#fun-stuff)
-* [Articles](#articles)
 * [Credits](#credits)
 
 ###Metalists
@@ -66,14 +77,37 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Tech Talk: Elisabeth Hendrickson: Agile Testing](http://www.youtube.com/watch?v=bqrOnIECCSg)
 * [Tech Talk: Esther Derby / Diana Larsen: Agile Retrospective](http://www.youtube.com/watch?v=qqtPZYigfNI) 
 * [Bret Victor: Inventing on Principle](http://vimeo.com/36579366)
+* [Roy Osherove: Unit Testing Best Practices](https://www.youtube.com/watch?v=dJUVNFxrK_4)
+* [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8#t=18) (tech talk)
+* [James Whittaker: Large-scale Exploratory Testing: Let's Take a Tour](https://www.youtube.com/watch?v=fNkYz1hB7r0)
 
-###Testing
+###Basics
+####Encoding
+* [Oli Studholme: UTF-8](https://the-pastry-box-project.net/oli-studholme/2013-october-8) (blog-post)
+* [David C. Zentgraf: What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/) (blog-post)
+* [Joel on Software: The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) (blog-post)
+
+###Testing Activities
+####Exploratory Testing
+* [James Whittaker: Large-scale Exploratory Testing: Let's Take a Tour](https://www.youtube.com/watch?v=fNkYz1hB7r0)
+
+###Testing Focus
 ####Security
 * [OWASP](https://www.owasp.org/index.php/Main_Page)
 * [Securify - basic check via URL input](https://suite.websecurify.com/foundation)
 * [Security Testing Tools](http://www.tssci-security.com/archives/2007/11/24/2007-security-testing-tools-in-review/)
 * [OWAS Web Application Testing Cheat Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)
+* [Adobe Breach: Decrypting Edward Snowden's password](http://7habitsofhighlyeffectivehackers.blogspot.de/2013/11/can-someone-be-targeted-using-adobe.html) (blog-post)
 
+####Responsive Web Design
+* [Responsive Web Design testen (DE)](http://t3n.de/news/responsive-web-design-komfortabel-380139/)
+* [Checklist: Testing Responsive Webdesign (DE)](http://brain.3leglama.de/doku.php?id=responsive_webdesign)
+
+###Test Reports
+* [Claire Moss: Building Better Bug Reports](http://www.stickyminds.com/article/building-better-bug-reports?page=0%2C0) (article, thoughts on the issue)
+* [Michael Bolton: Reporting Test Results (1/3)](http://www.developsense.com/blog/2012/02/why-pass-vs-fail-rates-are-unethical/) (article)
+
+###Testing Tools
 ####Selenium
 * [Selenium WebDriver](http://seleniumhq.org/docs/03_webdriver.html)
 * [Selenium 2.0 Documentation](http://selenium.googlecode.com/svn/trunk/docs/api/py/index.html)
@@ -89,20 +123,18 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Zombie.js](https://github.com/assaf/zombie)
 * [supertest](https://github.com/visionmedia/supertest)
 
-####Responsive Web Design
-* [Responsive Web Design testen (DE)](http://t3n.de/news/responsive-web-design-komfortabel-380139/)
-* [Checklist: Testing Responsive Webdesign (DE)](http://brain.3leglama.de/doku.php?id=responsive_webdesign)
-
-####CSS-Lint
-* [css-lint (rules)](https://github.com/stubbornella/csslint/wiki/Rules)
-
 ###SDLC
-* [The Joel Test: How good is your software development team?](http://www.joelonsoftware.com/articles/fog0000000043.html)
-* [Joel: Top Five (Wrong) Reasons You Don't Have Testers](http://www.joelonsoftware.com/articles/fog0000000067.html)
+* [The Joel Test: How good is your software development team?](http://www.joelonsoftware.com/articles/fog0000000043.html) (blog-post)
+* [Joel: Top Five (Wrong) Reasons You Don't Have Testers](http://www.joelonsoftware.com/articles/fog0000000067.html) (blog-post)
+* [Tech Talk: Elisabeth Hendrickson: Agile Testing](http://www.youtube.com/watch?v=bqrOnIECCSg)
+* [Tech Talk: Esther Derby / Diana Larsen: Agile Retrospective](http://www.youtube.com/watch?v=qqtPZYigfNI) 
 
 ####SCM
 * [Git Branching Model (nvie)](http://nvie.com/posts/a-successful-git-branching-model)
 * [Git <> SVN](http://git.or.cz/course/svn.html)
+* [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8#t=18) (tech talk)
+* [Steve Benett: 10 things I hate about Git](http://steveko.wordpress.com/2012/02/24/10-things-i-hate-about-git/) (article)
+* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook) (article)
 
 ####Build
 * [Ant](http://ant.apache.org/manual/index.html)
@@ -110,20 +142,45 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Introduction to Ant](http://www.exubero.com/ant/antintro-s5.html)
 
 ###Programming, Scripting
-####SQL, PL/SQL
-* [Understanding Explain Plan Oracle](http://www.orafaq.com/node/1420)
-* [Oracle SQL - update if exists else insert, HowTo](http://stackoverflow.com/questions/4015199/oracle-sql-update-if-exists-else-insert)
+* [Short vs. long variable names](http://arstechnica.com/information-technology/2013/02/is-there-an-excuse-for-short-variable-names/) (article)
 
 ####Unix, Shell, Command Line
+* [Arturo Herrero: Command line one liners](https://github.com/arturoherrero/tkn/blob/master/examples/command-line-one-liners.md)
 * [Unix Tutorial - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
 * [Unix Command Summary - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
-* [Command Line Crash Course](http://cli.learncodethehardway.org/book/?utm_source=nitrous.io&amp;utm_medium=blog&amp;utm_content=onemnthfivemistakes)
+* [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [Wring Shell Scripts - Tutorial](http://www.linuxcommand.org/writing_shell_scripts.php)
 * [Creating spars files on Linux](http://www.ruslansivak.com/index.cfm/2008/6/5/Creating-sparse-files-on-Linux)
 
 ####Python
 * [Python 2.7 vs. Python 3](http://alexgaynor.net/2013/dec/30/about-python-3/)
 * [PEP-0008: Python Programming Style Guide](http://www.python.org/dev/peps/pep-0008/)
+
+####HTML/CSS
+* [css-lint (rules)](https://github.com/stubbornella/csslint/wiki/Rules)
+
+####Unit Testing
+* [Roy Osherove: Unit Testing Best Practices](https://www.youtube.com/watch?v=dJUVNFxrK_4) 
+
+###Databases
+* [SQL Developer unter Ubuntu installieren](https://forums.oracle.com/forums/thread.jspa?threadID=2302774)
+
+####Oracle
+* [Oracle Statspack](http://www.orafaq.com/wiki/Statspack)
+* [Statspack overview](http://www.akadia.com/services/ora_statspack_survival_guide.html)
+* [Statspack output explained](http://www.dbspecialists.com/blog/database-tuning/not-licensed-for-awr-use-statspack-instead/comment-page-1/)
+
+####SQL, PL/SQL
+* [Understanding Explain Plan Oracle](http://www.orafaq.com/node/1420)
+* [Oracle SQL - update if exists else insert, HowTo](http://stackoverflow.com/questions/4015199/oracle-sql-update-if-exists-else-insert)
+
+####MongoDB
+* [Sarah Mei: Why you should never use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/) (blog-post)
+
+###DevOps
+* [Securing a Linux Server](http://spenserj.com/blog/2013/07/15/securing-a-linux-server/) (blog-post)
+* [Basic kit for Hardware Hacks (german)](http://www.spiegel.de/netzwelt/web/bastlerwerkzeug-grundausstattung-fuer-hardware-hacker-a-916591.html) (article)
+* [Bunnie: Building an Open Source Laptop](http://makezine.com/magazine/building-an-open-source-laptop/) (article)
 
 ###Tools
 ####Vim
@@ -133,12 +190,6 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Vim Commands Cheat Sheet](http://bullium.com/support/vim.html)
 * [Manage Vim Add-on Packages (Pathogen)](http://www.vim.org/scripts/script.php?script_id=2332) &gt; [Example: Pathogen&gt;Syntastic&gt;JSLint||jshint](http://stackoverflow.com/a/5893447) &gt; [install jshint](http://brain.3leglama.de/doku.php?id=vimrc:install_jshint) | [Adding Syntax Checking to vim - howto](http://stackoverflow.com/questions/473478/vim-jslint/5893447#5893447)
 * [Syntastic](http://www.vim.org/scripts/script.php?script_id=2736)
-
-####Database related
-* [Oracle Statspack](http://www.orafaq.com/wiki/Statspack)
-* [Statspack overview](http://www.akadia.com/services/ora_statspack_survival_guide.html)
-* [Statspack output explained](http://www.dbspecialists.com/blog/database-tuning/not-licensed-for-awr-use-statspack-instead/comment-page-1/)
-* [SQL Developer unter Ubuntu installieren](https://forums.oracle.com/forums/thread.jspa?threadID=2302774)
 
 ####Other
 * [CUPS](http://www.cups.org/doc-1.1/sum.html#USING_SYSTEM)
@@ -150,10 +201,6 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 ###Fun stuff
 * [Wheningit](http://wheningit.tumblr.com/)
 * [Devops Reactions](http://devopsreactions.tumblr.com/)
-
-###Articles
-##Testreports
-[Claire Moss: Building Better Bug Reports](http://www.stickyminds.com/article/building-better-bug-reports?page=0%2C0) (thoughts on the issue)
 
 ##Credits
 
