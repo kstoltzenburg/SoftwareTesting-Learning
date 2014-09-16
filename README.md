@@ -133,6 +133,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Jonathan Kohl: Test Mobile Applications with I sliced up fun!](http://www.kohl.ca/articles/ISLICEDUPFUN.pdf)
 
 ###Test Reports
+* [Simon Tatham: How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 * [Claire Moss: Building Better Bug Reports](http://www.stickyminds.com/article/building-better-bug-reports?page=0%2C0) (article, thoughts on the issue)
 * [Michael Bolton: Reporting Test Results (1/3)](http://www.developsense.com/blog/2012/02/why-pass-vs-fail-rates-are-unethical/) (article)
 
