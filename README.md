@@ -11,7 +11,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Books](#books)  
 * [Videos](#videos)  
 * [Basics](#basics)
-  * [Psychologicals](#psychologicals) | [Error Analysis](#error-analysis) | [Encoding](#encoding) 
+  * [Psychologicals](#psychologicals) | [Error Analysis](#error-analysis) | [Encoding](#encoding) | [HTTP](#http) 
 * [Test Planning](#test-planning)
   * [Heuristics](#heuristics)  
 * [Testing Activities](#testing-activities)
@@ -89,6 +89,14 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Oli Studholme: UTF-8](https://the-pastry-box-project.net/oli-studholme/2013-october-8) (blog-post)
 * [David C. Zentgraf: What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/) (blog-post)
 * [Joel on Software: The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) (blog-post)
+
+####HTTP
+* [Chua Hock-Chuan: HTTP Basics](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+* [Chua Hock-Chuan: State & Session Management](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_StateManagement.html)
+* [Chua Hock-Chuan: Authentication](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Authentication.html)
+* [Chua Hock-Chuan: SSL](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_SSL.html)
+* [Pavan Podila: HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+* [Pavan Podila: HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 ###Test Planning 
 * [James Whittaker: 10 Mintues Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo) (tech talk)
