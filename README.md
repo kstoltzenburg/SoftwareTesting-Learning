@@ -1,7 +1,7 @@
 SoftwareTesting-Learning
 ========================
 
-This page contains a bunch of links to blog posts, articles, videos, tutorials, books, frameworks, tools and such concerning Software Testing or miscellaneous topics that might be helpful or interesting for Testers as they touch basic Software Development principles. I started this as a private list, and I won't claim for this list to be exhaustive or completely accurate. However if you have any input on how best to organize these links, please let me know. Please also feel welcome to fork and submit your pull-requests, if you would like to contribute. Thanks!
+This page contains a bunch of links to blog posts, articles, videos, tutorials, books, frameworks, tools and such concerning Software Testing or miscellaneous topics that might be helpful or interesting for Testers as they touch basic Software Development principles. I started this as a private list, and I won't claim for this list to be exhaustive or completely accurate. However if you have any input, please let me know. Please also feel welcome to fork and submit your pull-requests, if you would like to contribute. Thanks!
 
 
 ### Table of Contents
@@ -11,7 +11,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Books](#books)  
 * [Videos](#videos)  
 * [Basics](#basics)
-  * [Psychologicals](#psychologicals) | [Encoding](#encoding) 
+  * [Psychologicals](#psychologicals) | [Error Analysis](#error-analysis) | [Encoding](#encoding) 
 * [Test Planning](#test-planning)
   * [Heuristics](#heuristics)  
 * [Testing Activities](#testing-activities)
@@ -81,6 +81,9 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Test your awareness: Whodunnit?](https://www.youtube.com/watch?v=ubNF9QNEQLA)
 * [Matt Heusser: Outliers III](http://craftingsw.blogspot.de/2009/02/outliers-iii.html)[I](http://craftingsw.blogspot.de/2009/01/outliers-i.html)[II](http://craftingsw.blogspot.de/2009/01/outliers-ii.html)
 * [Susan Cain: The power of introverts](https://www.youtube.com/watch?v=c0KYU2j0TM4)
+ 
+####Error Analysis
+* [Chua Hock-Chuan: Common Error Messages. JDK, MySQL, Tomcat, JDBC, Servlet ...](http://www.ntu.edu.sg/home/ehchua/programming/howto/ErrorMessages.html)
 
 ####Encoding
 * [Oli Studholme: UTF-8](https://the-pastry-box-project.net/oli-studholme/2013-october-8) (blog-post)
