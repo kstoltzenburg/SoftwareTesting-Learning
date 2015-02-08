@@ -105,13 +105,13 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Heuristics](http://en.wikipedia.org/wiki/Heuristic)
 * [Elisabeth Hendrickson: Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 * [Michael Bolton / James Bach : FEW HICCUPS](http://www.developsense.com/blog/2012/07/few-hiccupps/)
-* [Micheal Bolton: Resources on Exploratory Testing, Metrics and Other Stuff](http://www.developsense.com/resources.html)
+* [Michael Bolton: Resources on Exploratory Testing, Metrics and Other Stuff](http://www.developsense.com/resources.html)
 * [Curious Tester: The Power of Mnemonics](http://curioustester.blogspot.de/2009/10/power-of-heuristics-and-mneumonics.html)
 
 ###Testing Activities
 ####Exploratory Testing
 * [James Whittaker: Large-scale Exploratory Testing: Let's Take a Tour](https://www.youtube.com/watch?v=fNkYz1hB7r0)
-* [Micheal Bolton: Resources on Exploratory Testing, Metrics and Other Stuff](http://www.developsense.com/resources.html)
+* [Michael Bolton: Resources on Exploratory Testing, Metrics and Other Stuff](http://www.developsense.com/resources.html)
 
 ###Testing Focus
 ####Security
@@ -120,6 +120,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Security Testing Tools](http://www.tssci-security.com/archives/2007/11/24/2007-security-testing-tools-in-review/)
 * [OWAS Web Application Testing Cheat Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)
 * [Adobe Breach: Decrypting Edward Snowden's password](http://7habitsofhighlyeffectivehackers.blogspot.de/2013/11/can-someone-be-targeted-using-adobe.html) (blog-post)
+* [How To Survive 2014 (Secure your devices when attending a Hackers Congress)](https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive)
 
 ####Responsive Web Design
 * [Responsive Web Design testen (DE)](http://t3n.de/news/responsive-web-design-komfortabel-380139/)
@@ -176,7 +177,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Unix Tutorial - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
 * [Unix Command Summary - Utah University](http://www.math.utah.edu/lab/unix/unix-tutorial.html)
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* [Wring Shell Scripts - Tutorial](http://www.linuxcommand.org/writing_shell_scripts.php)
+* [Writing Shell Scripts - Tutorial](http://www.linuxcommand.org/writing_shell_scripts.php)
 * [Creating spars files on Linux](http://www.ruslansivak.com/index.cfm/2008/6/5/Creating-sparse-files-on-Linux)
 
 ####Python
