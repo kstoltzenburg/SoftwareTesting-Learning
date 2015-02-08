@@ -171,6 +171,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 
 ###Programming, Scripting
 * [Short vs. long variable names](http://arstechnica.com/information-technology/2013/02/is-there-an-excuse-for-short-variable-names/) (article)
+* [Fred T-H: Queues don't fix overload](http://ferd.ca/queues-don-t-fix-overload.html)(article)
 
 ####Unix, Shell, Command Line
 * [Arturo Herrero: Command line one liners](https://github.com/arturoherrero/tkn/blob/master/examples/command-line-one-liners.md)
@@ -179,6 +180,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [Writing Shell Scripts - Tutorial](http://www.linuxcommand.org/writing_shell_scripts.php)
 * [Creating spars files on Linux](http://www.ruslansivak.com/index.cfm/2008/6/5/Creating-sparse-files-on-Linux)
+* [Fred T-H: awk in 20 minutes](http://ferd.ca/awk-in-20-minutes.html)
 
 ####Python
 * [Python 2.7 vs. Python 3](http://alexgaynor.net/2013/dec/30/about-python-3/)
