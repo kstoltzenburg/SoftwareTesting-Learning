@@ -11,7 +11,7 @@ Concerning Notation on User rights / file type (-rwxr-xr--):
 
 > [0]: Filetype, e.g - (regular file), d (directory), s (unix-domain-socket), p (pipe), b (block-device), c (character-device), l (symbolic link)
 
-> [1-2,3-5,6-8]: Access rights rwx (read, write, execute) for user, group, other.
+> [1-3,4-6,7-9]: Access rights rwx (read, write, execute) for user, group, other.
 
 --
 
