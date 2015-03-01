@@ -163,6 +163,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8#t=18) (tech talk)
 * [Steve Benett: 10 things I hate about Git](http://steveko.wordpress.com/2012/02/24/10-things-i-hate-about-git/) (article)
 * [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook) (article)
+* [Joel Spolsky: Hg Init: a Mercurial tutorial ](http://hginit.com/index.html)
 
 ####Build
 * [Ant](http://ant.apache.org/manual/index.html)
