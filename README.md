@@ -11,7 +11,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Books](#books)  
 * [Videos](#videos)  
 * [Basics](#basics)
-  * [Psychologicals](#psychologicals) | [Error Analysis](#error-analysis) | [Encoding](#encoding) | [HTTP](#http) 
+  * [Psychologicals](#psychologicals) | [Error Analysis](#error-analysis) | [Encoding](#encoding) | [File Formats](#file-formats) | [HTTP](#http) 
 * [Test Planning](#test-planning)
   * [Heuristics](#heuristics)  
 * [Testing Activities](#testing-activities)
@@ -89,6 +89,9 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Oli Studholme: UTF-8](https://the-pastry-box-project.net/oli-studholme/2013-october-8) (blog-post)
 * [David C. Zentgraf: What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/) (blog-post)
 * [Joel on Software: The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) (blog-post)
+
+####File Formats
+* [Wikipedia: CSV](http://en.wikipedia.org/wiki/Comma-separated_values)
 
 ####HTTP
 * [Chua Hock-Chuan: HTTP Basics](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
