@@ -92,6 +92,7 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 
 ####File Formats
 * [Wikipedia: CSV](http://en.wikipedia.org/wiki/Comma-separated_values)
+* [Wikipedia: YAML](http://en.wikipedia.org/wiki/YAML) 
 
 ####HTTP
 * [Chua Hock-Chuan: HTTP Basics](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
