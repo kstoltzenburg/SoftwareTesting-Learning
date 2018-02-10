@@ -3,8 +3,12 @@ SoftwareTesting-Learning
 
 This page contains a bunch of links to blog posts, articles, videos, tutorials, books, frameworks, tools and such concerning Software Testing or miscellaneous topics that might be helpful or interesting for Testers as they touch basic Software Development principles. I started this as a private list, and I won't claim for this list to be exhaustive or completely accurate. However if you have any input, please let me know. Please also feel welcome to fork and submit your pull-requests, if you would like to contribute. Thanks!
 
+Table of Contents
+=================
 
 ### Table of Contents
+
+* [Same same but different](#same-same-but-different)
 * [Metalists](#metalists)
 * [Keeping up to date](#keeping-up-to-date)
   * [Communities, News, Magazines](#communities-news-magazines) | [Blogs](#blogs)
@@ -34,8 +38,12 @@ This page contains a bunch of links to blog posts, articles, videos, tutorials, 
 * [Fun Stuff](#fun-stuff)
 * [Credits](#credits)
 
-### Metalists
-* [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+
+## Same same but different
+* [ligurio: awesome-software-quality](https://github.com/ligurio/awesome-software-quality/blob/master/README.md)
+* [Huib Schoots: Great Resources](http://www.huibschoots.nl/wordpress/?page_id=441)
+
+## Metalists
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [Cheat-Sheets](http://www.cheat-sheets.org/)
 * [More Cheat-Sheets](http://overapi.com/)
