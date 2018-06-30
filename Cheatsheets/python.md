@@ -40,12 +40,12 @@ Hello World!
 
 ... gives you the object, '' indicate it's a string, using repr()
 
-%s substitute a string
-%d substitute an integer
-%f substitutes a float
+* %s substitute a string
+* %d substitute an integer
+* %f substitutes a float
 
 #### Boolean
-Boolean are a special case of an Integer. Represented by Constants True and False, if you put it in a numerical context, e.g. an addtion of numbers, True = 1 and False = 0. 
+Boolean are a special case of an Integer. Represented by Constants True and False, if you put it in a numerical context, e.g. an addition of numbers, True = 1 and False = 0. 
 
 #### Strings
 * a sequence of characters inside quotation marks.
@@ -56,7 +56,7 @@ Boolean are a special case of an Integer. Represented by Constants True and Fals
 >> myString = 'Hello World!' 
 ```
 
-* subset can be extracted with [], e.g. myString[0] is the first character H
+* a subset can be extracted with [], e.g. myString[0] is the first character H
 * ... and sliced with [ : ], myString[2:4] is ll
 * .... from beginning - myString[:4], is: Hell
 * .... and end - myString[2:], is: llo World! 
@@ -69,7 +69,7 @@ etc.
 * Tuples are in (), and cannot be updated (~ read only lists)
 * access subsets as for Strings, using [] position and [ ; ] for slice
 
-#### Dictonaries
+#### Dictionaries
 * are like hashes in perl
 * key value pairs
 * dicts are in {}
