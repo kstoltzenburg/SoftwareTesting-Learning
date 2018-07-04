@@ -10,6 +10,8 @@ Some basic notes on anything Linux.
 
 ### Files
 
+#### File information
+
 Display (list) information on files
 
 ```
@@ -19,11 +21,20 @@ $ ls -l
 
 The file myFile has a size of 2344 Bytes, was last changed on Okt 04th 14:51, belongs to the User myUser and to the group users; one hardlink exists for this file.
 
+#### File access rights
 
 Concerning Notation on User rights / file type (-rwxr-xr--):
 
 ```
-[0]: Filetype, e.g - (regular file), d (directory), s (unix-domain-socket), p (pipe), b (block-device), c (character-device), l (symbolic link)
+[0]: Filetype, e.g 
+
+     -   regular file
+     d   directory
+     s   unix-domain-socket
+     p   pipe
+     b   block-device
+     c   character-device
+     l   symbolic link
 ```
 
 ```
