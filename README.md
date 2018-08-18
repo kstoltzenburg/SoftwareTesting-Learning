@@ -141,11 +141,15 @@ Table of Contents
 #### Mobile App
 * [Rosie Sherry: A Field Guide To Mobile App Testing](http://www.smashingmagazine.com/2012/10/22/a-guide-to-mobile-app-testing/)
 * [Jonathan Kohl: Test Mobile Applications with I sliced up fun!](http://www.kohl.ca/articles/ISLICEDUPFUN.pdf)
+* [http://blog.proto.io/11-development-tools-that-take-the-sting-out-of-testing-mobile-apps/]
 
 ### Test Reports
 * [Simon Tatham: How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 * [Claire Moss: Building Better Bug Reports](http://www.stickyminds.com/article/building-better-bug-reports?page=0%2C0) (article, thoughts on the issue)
 * [Michael Bolton: Reporting Test Results (1/3)](http://www.developsense.com/blog/2012/02/why-pass-vs-fail-rates-are-unethical/) (article)
+
+### productivity time management
+http://www.developsense.com/blog/2012/10/where-does-all-that-time-go/
 
 ### Testing Tools
 #### Selenium
@@ -239,6 +243,9 @@ Table of Contents
 
 ### Historical
 * [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
+
+###Meetups
+http://blog.neiltest.com/2014/12/09/does-it-always-have-to-be-about-the-drink/
 
 
 ### Fun stuff
