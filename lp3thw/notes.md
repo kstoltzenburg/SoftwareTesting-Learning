@@ -36,6 +36,9 @@ Tricks taught so far:
 * read your .py file backwards
 * read your .py file out loud, saying even the characters
 
+Take note:
+* The = (single-equal) assigns the value on the right to a variable on the left. The == (double-equal) tests whether two things have the same value.
+* Add space around operators like this so that it's easier to read.
 
 Printing using comma separated values will add spaces around the values:
 
