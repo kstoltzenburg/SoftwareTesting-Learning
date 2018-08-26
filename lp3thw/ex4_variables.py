@@ -12,8 +12,8 @@ passengers = 90
 # given available drivers, how many cars will not be driven?
 cars_not_driven = cars - drivers
 # given available drivers, how many cars will be driven?
-# NOTE: this will be incorrect, if we have more drivers then cars; rather
-# if drivers >= cars; cars_driven = drivers; else cars_driven = cars
+# NOTE: this will be incorrect, if we have more drivers then cars; maybe
+# if drivers <= cars; cars_driven = drivers; else cars_driven = cars
 cars_driven = drivers
 # overall available spaces in cars for carpooling
 carpool_capacity = cars_driven * space_in_a_car
