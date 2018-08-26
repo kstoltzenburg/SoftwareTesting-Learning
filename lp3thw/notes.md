@@ -2,6 +2,10 @@
 
 https://learnpythonthehardway.org/python3/
 
+## Other links
+
+* https://www.josharcher.uk/categories/lpthw/
+
 ## Exercise 1 (Print Strings)
 
 You can use " and ' for strings
