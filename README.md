@@ -79,7 +79,7 @@ Table of Contents
 * [Roy Osherove: Unit Testing Best Practices](https://www.youtube.com/watch?v=dJUVNFxrK_4)
 * [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8#t=18) (tech talk)
 * [James Whittaker: Large-scale Exploratory Testing: Let's Take a Tour](https://www.youtube.com/watch?v=fNkYz1hB7r0)
-* [James Whittaker: 10 Mintues Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo) (tech talk)
+* [James Whittaker: 10 Minutes Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo) (tech talk)
 * [David Rock: Your Brain at Work](https://www.youtube.com/watch?v=XeJSXfXep4M)
 
 ### Basics
@@ -149,7 +149,7 @@ Table of Contents
 * [Michael Bolton: Reporting Test Results (1/3)](http://www.developsense.com/blog/2012/02/why-pass-vs-fail-rates-are-unethical/) (article)
 
 ### productivity time management
-http://www.developsense.com/blog/2012/10/where-does-all-that-time-go/
+* http://www.developsense.com/blog/2012/10/where-does-all-that-time-go/
 
 ### Testing Tools
 #### Selenium
@@ -188,7 +188,7 @@ http://www.developsense.com/blog/2012/10/where-does-all-that-time-go/
 
 ### Programming, Scripting
 * [Short vs. long variable names](http://arstechnica.com/information-technology/2013/02/is-there-an-excuse-for-short-variable-names/) (article)
-* [Fred T-H: Queues don't fix overload](http://ferd.ca/queues-don-t-fix-overload.html)(article)
+* [Fred T-H: Queues don't fix overload](http://ferd.ca/queues-don-t-fix-overload.html) (article)
 
 #### Unix, Shell, Command Line
 * [Arturo Herrero: Command line one liners](https://github.com/arturoherrero/tkn/blob/master/examples/command-line-one-liners.md)
@@ -244,8 +244,8 @@ http://www.developsense.com/blog/2012/10/where-does-all-that-time-go/
 ### Historical
 * [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
 
-###Meetups
-http://blog.neiltest.com/2014/12/09/does-it-always-have-to-be-about-the-drink/
+### Meetups
+* http://blog.neiltest.com/2014/12/09/does-it-always-have-to-be-about-the-drink/
 
 
 ### Fun stuff
