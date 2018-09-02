@@ -202,6 +202,7 @@ Table of Contents
 #### Python
 * [Python 2.7 vs. Python 3](http://alexgaynor.net/2013/dec/30/about-python-3/)
 * [PEP-0008: Python Programming Style Guide](http://www.python.org/dev/peps/pep-0008/)
+* [Tim McNamara: Making sense of setup.py](https://www.youtube.com/watch?v=S-Le3PWHqZA) (video)
 
 #### HTML/CSS
 * [css-lint (rules)](https://github.com/stubbornella/csslint/wiki/Rules)
