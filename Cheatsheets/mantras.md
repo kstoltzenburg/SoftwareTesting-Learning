@@ -1,3 +1,8 @@
+## Self
+
+* Don't take yourself too seriously.
+* Don't have an attitude, drop the attitude.
+
 ## Working
 
 * "Find something you like in everything you do." - [@qahiccupps](https://twitter.com/qahiccupps)
