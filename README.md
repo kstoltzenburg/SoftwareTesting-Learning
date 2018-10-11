@@ -33,7 +33,7 @@ Table of Contents
   * [Oracle](#oracle) | [SQL, PL/SQL](#sql-pl-sql) | [MongoDB](#mongodb)
 * [DevOps](#devops)
 * [Tools](#tools)
-  * [Vim](#vim) | [Database related](#database-related) | [Other](#other)
+  * [Vim](#vim) | [Database related](#database-related) | [Other](#other) | [Validators](#validators)
 * [Historical](#historical)
 * [Fun Stuff](#fun-stuff)
 * [Credits](#credits)
@@ -241,6 +241,9 @@ Table of Contents
 
 #### Other
 * [CUPS](http://www.cups.org/doc-1.1/sum.html#USING_SYSTEM)
+
+#### Validators
+* [Can I Use?](https://caniuse.com/) - check if something would be supported on different browser versions
 
 ### Historical
 * [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
