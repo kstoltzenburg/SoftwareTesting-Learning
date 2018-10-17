@@ -1,3 +1,15 @@
+Public Speaking
+
+# Logistics
+
+## Consider
+* you might not be able to see the presentation view - if you rely on speaker notes, print them!
+* backup machine to present from - can you send your slides to somebody else who'd be able to connect their machine on the day?
+* ... or bring you slides on a stick, upfront
+* do you rely on being online for anything?
+
+# Content, personal
+
 ## Delivering a speech
 
 * Know your style, embrace it
