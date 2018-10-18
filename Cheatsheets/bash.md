@@ -7,6 +7,8 @@ Basic notes on the shell command language.
 
 ## Basics
 
+* https://www.gnu.org/software/bash/manual/bashref.html
+
 ## Test Framworks
 
 * https://github.com/lehmannro/assert.sh
