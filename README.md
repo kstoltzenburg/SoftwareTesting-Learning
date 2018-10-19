@@ -15,7 +15,7 @@ Table of Contents
 * [Books](#books)  
 * [Videos](#videos)  
 * [Basics](#basics)
-  * [Psychologicals](#psychologicals) | [Error Analysis](#error-analysis) | [Encoding](#encoding) | [File Formats](#file-formats) | [HTTP](#http) 
+  * [Psychologicals](#psychologicals) | [Error Analysis](#error-analysis) | [Encoding](#encoding) | [File Formats](#file-formats) | [HTTP](#http) | [Models, Diagrams](#models-diagrams)
 * [Test Planning](#test-planning)
   * [Heuristics](#heuristics)  
 * [Testing Activities](#testing-activities)
@@ -109,6 +109,9 @@ Table of Contents
 * [Chua Hock-Chuan: SSL](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_SSL.html)
 * [Pavan Podila: HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [Pavan Podila: HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+#### Models, Diagrams
+* [Hillel Wayne: Decision Tables](https://www.hillelwayne.com/post/decision-tables/)
 
 ### Test Planning 
 * [James Whittaker: 10 Mintues Test Plan](https://www.youtube.com/watch?v=QEu3wmgTLqo) (tech talk)
