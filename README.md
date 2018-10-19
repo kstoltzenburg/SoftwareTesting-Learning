@@ -28,7 +28,7 @@ Table of Contents
 * [SDLC](#sdlc)
   * [Test Reports](#test-reports) | [SCM](#scm) | [Build](#build) 
 * [Programming, Scripting](#programming-scripting)
-  * [Unix, Shell, Command Line](#unix-shell-command-line) | [Python](#python) | [HTML/CSS](#html-css) | [Unit Testing](#unit-testing) | [JavaScript](#javaScript)
+  * [Unix, Shell, Command Line](#unix-shell-command-line) | [Python](#python) | [HTML/CSS](#html-css) | [Unit Testing](#unit-testing) | [JavaScript](#javascript)
 * [Databases](#databases)
   * [Oracle](#oracle) | [SQL, PL/SQL](#sql-pl-sql) | [MongoDB](#mongodb)
 * [DevOps](#devops)
