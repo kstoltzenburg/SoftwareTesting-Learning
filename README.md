@@ -28,7 +28,7 @@ Table of Contents
 * [SDLC](#sdlc)
   * [Test Reports](#test-reports) | [SCM](#scm) | [Build](#build) 
 * [Programming, Scripting](#programming-scripting)
-  * [Unix, Shell, Command Line](#unix-shell-command-line) | [Python](#python) | [HTML/CSS](#html-css) | [Unit Testing](#unit-testing)
+  * [Unix, Shell, Command Line](#unix-shell-command-line) | [Python](#python) | [HTML/CSS](#html-css) | [Unit Testing](#unit-testing) | [JavaScript](#javaScript)
 * [Databases](#databases)
   * [Oracle](#oracle) | [SQL, PL/SQL](#sql-pl-sql) | [MongoDB](#mongodb)
 * [DevOps](#devops)
@@ -212,6 +212,9 @@ Table of Contents
 
 #### Unit Testing
 * [Roy Osherove: Unit Testing Best Practices](https://www.youtube.com/watch?v=dJUVNFxrK_4) 
+
+#### JavaScript
+* [Leonardo Maldonado: 33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concept)
 
 ### Databases
 * [SQL Developer unter Ubuntu installieren](https://forums.oracle.com/forums/thread.jspa?threadID=2302774)
