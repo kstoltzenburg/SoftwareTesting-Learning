@@ -35,6 +35,8 @@ Table of Contents
 * [Tools](#tools)
   * [Vim](#vim) | [Database related](#database-related) | [Other](#other) | [Validators](#validators)
 * [Katas](#katas)
+* [Soft Skills](#soft-skills)
+ * [Learning](#learning)
 * [Historical](#historical)
 * [Fun Stuff](#fun-stuff)
 * [Credits](#credits)
@@ -253,14 +255,19 @@ Table of Contents
 * [Can I Use?](https://caniuse.com/) - check if something would be supported on different browser versions
 
 ### Katas
-8 [Amelie Cornelis: Know Your IDE](https://github.com/am-cornelis/know-ur-ide)
+* [Amelie Cornelis: Know Your IDE](https://github.com/am-cornelis/know-ur-ide)
+
+### Soft Skills
+
+#### Learning
+* [Christina Ohanian: The Comfort Zone: Fear is more likely to kill my dreams than failure ever will](https://www.ctohanian.com/blog/2017/11/24/stepping-out-of-your-comfort-zone)
+
 
 ### Historical
 * [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
 
 ### Meetups
 * http://blog.neiltest.com/2014/12/09/does-it-always-have-to-be-about-the-drink/
-
 
 ### Fun stuff
 * [Wheningit](http://wheningit.tumblr.com/)
