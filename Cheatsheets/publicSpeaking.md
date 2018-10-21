@@ -1,11 +1,15 @@
 Public Speaking
 ======
 
+# Checklists
+* [Emily Webber: What speakers need from conference organisers](https://github.com/ewebber/whatspeakersneed/blob/master/index.md)
+* [Troy Hunt: Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation)
+
 # Logistics
-* you might not be able to see the presentation view - if you rely on speaker notes, print them!
-* backup machine to present from - can you send your slides to somebody else who'd be able to connect their machine on the day?
+* If you rely on speaker notes, print them!
+* Send slides to organizer, co-speaker
 * ... or bring you slides on a stick, upfront
-* do you rely on being online for anything?
+* don't rely on (good) wifi
 
 # Content, personal
 
@@ -33,5 +37,16 @@ Public Speaking
 * Lightning Talk
 * Labling - use daily standups to practice public speaking
 
-## Sources, References
-* https://mobile.twitter.com/charrett/status/702854436792754176
+# Articles / References
+* [Troy Hunt: Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation)
+
+  Identifies common speaker types representing anti-patterns like <em>The Bullet Pointer</em> or <em>The Apologist</em>, while giving example checklists and good practices.
+* [Karo Stoltzenburg: PechaKucha: Now you see it - now you don't](https://putzerfisch.wordpress.com/2016/04/09/pechakucha-now-you-see-it-now-you-dont)
+
+  Reflections on what works better and what works less when presenting, from example presentations in the PechaKucha format (20 images, each shown for exactly 20 seconds)
+* [Carmine Gallo: Cognitive Psychologists Say Overcoming This One Bias Leads to Public Speaking Success](https://www.inc.com/carmine-gallo/overcoming-this-human-bias-is-the-key-to-great-public-speaking.html")
+  
+  Don't be a know-it-all; be a learn-it-all. Stay humble. Get feedback. Practice. Experiment.
+
+* [Anne-Marie Charett: Insights gained from the @spkeazee tutorial with 
+@FionaCCharles at @CPHcontext](https://twitter.com/charrett/status/702854436792754176)
