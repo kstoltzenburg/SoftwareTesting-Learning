@@ -261,7 +261,7 @@ Table of Contents
 
 #### Learning
 * [Christina Ohanian: The Comfort Zone: Fear is more likely to kill my dreams than failure ever will](https://www.ctohanian.com/blog/2017/11/24/stepping-out-of-your-comfort-zone)
-
+* [Constance Armitage: Creativity Is Not An Innate Talent](http://theartfultester.com/creativity-is-not-innate/)
 
 ### Historical
 * [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
