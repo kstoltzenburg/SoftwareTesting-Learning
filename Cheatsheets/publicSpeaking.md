@@ -5,7 +5,21 @@ Public Speaking
 * [Emily Webber: What speakers need from conference organisers](https://github.com/ewebber/whatspeakersneed/blob/master/index.md)
 * [Troy Hunt: Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation)
 
-# Logistics
+## Preparation
+
+### Abstract
+
+* [Richard Bradshaw: Writing/reviewing abstracts. A Thread](https://twitter.com/FriendlyTester/status/962782536089956352)
+
+### Thinking about Content
+
+* What's the objective?
+* What are the key takeaways for your audience?
+* Tell a story
+* Speak within your own experience
+* End the talk strong - lesson learned, loop back to intro
+
+### Logistics on the day
 * If you rely on speaker notes, print them!
 * Send slides to organizer, co-speaker
 * ... or bring you slides on a stick, upfront
@@ -17,14 +31,6 @@ Public Speaking
 
 * Know your style, embrace it
 * Know how you'll begin and end - memorize you first and last sentence
-
-## Preparing a speech or presentation
-
-* What's the objective?
-* What are the key takeaways for your audience?
-* Tell a story
-* Speak within your own experience
-* End the talk strong - lesson learned, loop back to intro
 
 ## Peptalk
 
