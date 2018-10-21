@@ -10,6 +10,7 @@ Public Speaking
 ### Abstract
 
 * [Richard Bradshaw: Writing/reviewing abstracts. A Thread](https://twitter.com/FriendlyTester/status/962782536089956352)
+* [Ashley Hunsberger: questions to rate abstracts. A Thread](https://mobile.twitter.com/aahunsberger/status/977188376653844486)
 
 ### Thinking about Content
 
