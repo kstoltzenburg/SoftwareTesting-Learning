@@ -34,6 +34,7 @@ Table of Contents
 * [DevOps](#devops)
 * [Tools](#tools)
   * [Vim](#vim) | [Database related](#database-related) | [Other](#other) | [Validators](#validators)
+* [Katas](#katas)
 * [Historical](#historical)
 * [Fun Stuff](#fun-stuff)
 * [Credits](#credits)
@@ -250,6 +251,9 @@ Table of Contents
 
 #### Validators
 * [Can I Use?](https://caniuse.com/) - check if something would be supported on different browser versions
+
+### Katas
+8 [Amelie Cornelis: Know Your IDE](https://github.com/am-cornelis/know-ur-ide)
 
 ### Historical
 * [Brian Knappenberger: The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) (movie, documentary)
