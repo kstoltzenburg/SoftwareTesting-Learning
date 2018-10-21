@@ -54,5 +54,9 @@ Public Speaking
   
   Don't be a know-it-all; be a learn-it-all. Stay humble. Get feedback. Practice. Experiment.
 
+* [Alan Richardson: How to overcome Impostor Syndrome and use your brain's learning mechanisms to improve your public speaking skills](http://blog.eviltester.com/2017/09/overcome-imposter-syndrome-public-speaking.html)
+
+  Identify actionable steps to improve your public speaking. You can rewire your brain by revisiting ‘normal’ experiences of speaking in public as public speaking - mentally label these as ‘Public Speaking’ to get a different base experience (and create opportunities to practice).
+
 * [Anne-Marie Charett: Insights gained from the @spkeazee tutorial with 
 @FionaCCharles at @CPHcontext](https://twitter.com/charrett/status/702854436792754176)
