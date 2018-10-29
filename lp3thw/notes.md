@@ -62,16 +62,17 @@ For more information, see: https://stackoverflow.com/questions/28669459/how-to-p
 
 ## Exercise 5 (more variables)
 
-Syntax Error when run with < python3.6
+This is introducing formatted string literals, or simply called “f-strings” - which were newly introduced in python 3.6.
 
-https://stackoverflow.com/questions/2429511/why-do-people-write-the-usr-bin-env-python-shebang-on-the-first-line-of-a-pyt/2429517#2429517
+There are some fantastic resources that descripe and compare the different python string formatting options:
 
-Added shebang, made executable, run directly:
+* Christoph Zwerschke on the new python 3.6 f-strings: https://cito.github.io/blog/f-strings/
+* Formatting strings in earlier python versions (all examples work in python 2.7 - 3.5): https://pyformat.info/
+* Python docs themselves: https://docs.python.org/3/library/string.html#format-string-syntax 
+As this now gives a syntax Error when run with < python3.6, I've added as shebang as per [this stackoverflow comment](https://stackoverflow.com/questions/2429511/why-do-people-write-the-usr-bin-env-python-shebang-on-the-first-line-of-a-pyt/2429517#2429517) and made the script executable. Now runnable directly:
 
 ```
 ./myscript.py
 ```
 
 * variables need to start with a character - "1" is not a valid variable name
-
-
