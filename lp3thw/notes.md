@@ -60,3 +60,18 @@ If you don't want to have the extra spaces, you can use string concatenation:
 
 For more information, see: https://stackoverflow.com/questions/28669459/how-to-print-variables-without-spaces-between-values#
 
+## Exercise 5 (more variables)
+
+Syntax Error when run with < python3.6
+
+https://stackoverflow.com/questions/2429511/why-do-people-write-the-usr-bin-env-python-shebang-on-the-first-line-of-a-pyt/2429517#2429517
+
+Added shebang, made executable, run directly:
+
+```
+./myscript.py
+```
+
+* variables need to start with a character - "1" is not a valid variable name
+
+
