@@ -32,3 +32,10 @@ conversion_pounds_to_kilogram = 0.45359237
 weight_kg = weight * conversion_pounds_to_kilogram
 weight_kg = round(weight_kg, 2)
 print(f"{name}'s weight of {weight} pounds equals approximately {weight_kg} kilograms")
+
+# Or in line, and as a one-liner
+print(f"In the metric system, {weight} pounds are about {round(weight * 0.45359273, 2)} kilogram, and {height} inches are about {height * 2.54} centimeters")
+
+
+
+
