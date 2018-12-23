@@ -1,10 +1,9 @@
 Information Security
 ===
 
-## Sources
-* [Information Security: Context and Introduction (Coursera)] (https://www.coursera.org/learn/information-security-data)
+## [Information Security: Context and Introduction (Coursera)](https://www.coursera.org/learn/information-security-data)
 
-### Introduction to Information Security 
+### 1 - Introduction to Information Security 
 
 Information Security: the preservation of the confidentiality, availability and integrity of information.
 
