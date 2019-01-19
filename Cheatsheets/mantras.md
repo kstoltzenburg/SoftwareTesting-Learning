@@ -12,6 +12,7 @@
 * Don't try to be smart, just be helpful.
 * Treat every work task on your desk like a hot potato: get it done, keep it moving.
 * Make yourself obsolete.
+* Don't get it round, get it written.
 
 ## Working with Others 
 
